@@ -22,7 +22,7 @@ public class TestReturnGradeMethod{
 			return "F";
 		}
 	}
-
+	//主函数
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Please enter your score:");
